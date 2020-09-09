@@ -1,4 +1,4 @@
-# Regression-Task1
+# Regression-Task2
 
 Problem Statement :
                      Given a dataset with two variables namely,Hours and Percentage Score.
